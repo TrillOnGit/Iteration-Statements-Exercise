@@ -1,0 +1,15 @@
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.deps.json
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.runtimeconfig.json
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.dll
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.pdb
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.AssemblyReference.cache
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfoInputs.cache
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfo.cs
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.CoreCompileInputs.cache
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.dll
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/refint/IterationStatements.dll
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.pdb
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.genruntimeconfig.cache
+/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/ref/IterationStatements.dll

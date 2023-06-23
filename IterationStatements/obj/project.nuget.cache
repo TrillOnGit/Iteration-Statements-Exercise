@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Owajx2GxMHTI/vMU92uTfZKYltOjw6GdVsSMuk7MdFzvpzZgHUZuE88G97bow19PXkOf2clTg+XYMbhE9XVm0g==",
+  "dgSpecHash": "2X4kglFfUdMhLV4YIhE13YIAewAVfkfgk66jKmD/dF3KYFz0SrZzdMibnlsMJXAb3BQpN3zPdvKEUzugkfwX5A==",
   "success": true,
-  "projectFilePath": "\\\\vmware-host\\Shared Folders\\Desktop\\repos\\csharp-31\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/trillion/Repos/Iteration-Statements-Exercise/IterationStatements/IterationStatements.csproj",
+  "expectedPackageFiles": [
+    "/home/trillion/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.18/microsoft.netcore.app.host.linux-x64.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
